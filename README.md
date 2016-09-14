@@ -1,0 +1,2 @@
+# coremvc
+.net core project
